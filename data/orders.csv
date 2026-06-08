@@ -1,0 +1,11 @@
+order_id,customer_zone,distance_km,order_value,status
+O1,North,3,20,pending
+O2,South,10,35,pending
+O3,North,5,15,cancelled
+O4,Central,20,40,pending
+O5,South,8,25,pending
+O6,North,2,18,pending
+O7,Central,12,30,pending
+O8,South,4,22,pending
+O9,North,7,19,pending
+O10,Central,9,27,pending
