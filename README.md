@@ -15,7 +15,19 @@ This project prepares food delivery order data for a future scheduling optimizat
 - Add delivery cost column
 - Analyze orders by zone using groupby
 - Save cleaned dataset
+## Driver Data Cleaning
 
+The driver dataset was cleaned by:
+
+- checking missing values
+- removing incomplete records
+- filtering unavailable drivers
+- filtering drivers with zero capacity
+- organizing drivers by delivery zone
+
+The cleaned dataset was saved as:
+
+clean_drivers.csv
 ## Tools
 
 - Python
@@ -26,7 +38,7 @@ This project prepares food delivery order data for a future scheduling optimizat
 
 ## Future Work
 
-- Add driver dataset
+
 - Match drivers with orders
 - Build OR-Tools scheduling model
 - Visualize results
