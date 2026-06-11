@@ -1,0 +1,9 @@
+driver_id,driver_name,customer_zone,vehicle_type,max_orders,available
+D1,Ali,North,bike,4,1
+D2,Sara,South,bike,3,1
+D3,John,Central,car,5,1
+D4,Mina,North,bike,4,0
+D5,Ahmed,South,car,5,1
+D6,Lina,Central,bike,3,1
+D7,Omar,North,car,4,1
+D8,Nora,South,bike,2,0
